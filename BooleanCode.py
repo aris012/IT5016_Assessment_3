@@ -1,4 +1,4 @@
-#Function: import random 
+#Function: import random
 #This code import a random output, with the use of boolean.
 
 #bool(random.ramdint(0,1)
