@@ -1,7 +1,7 @@
 ## T5016D_Assessment_3
 ### Overview
 
-Creating a research respository that explores programming principles and concepts.
+This is a research respository that explores programming principles and concepts.
 
   * a collection of codes.
   
